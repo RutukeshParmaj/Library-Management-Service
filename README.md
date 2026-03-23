@@ -41,5 +41,3 @@ Edit [`src/main/resources/application.properties`](src/main/resources/applicatio
 ```sh
 mvn clean install
 mvn spring-boot:run
-
-Syncing project with github
